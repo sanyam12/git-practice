@@ -1,2 +1,2 @@
 # git-practice
-Sanyam
+Sanyam Ratreja
