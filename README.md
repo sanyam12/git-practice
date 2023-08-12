@@ -1,4 +1,4 @@
 # git-practice
-Sanyam Ratreja
 
-this is am example to conf
+Here are some changes for you
+Sanyam Ratreja
